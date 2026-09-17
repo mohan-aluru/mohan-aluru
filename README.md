@@ -1,613 +1,284 @@
-<!-- ======================= HERO SECTION ======================= -->
+<!-- ===================== HEADER ===================== -->
 
-<h1 align="center">
-  👋 Hey, I'm Mohan
-</h1>
+<h1 align="center">Hi 👋, I'm Mohan</h1>
 
 <h3 align="center">
-  ☕ Java Backend Developer • 🧠 DSA Enthusiast • 🚀 Spring Boot Developer
+  Java Developer • DSA Enthusiast • Spring Boot Developer
 </h3>
 
 <p align="center">
-  Building backend applications with Java, Spring Boot, REST APIs & SQL
+  <b>Java • Java 8 • DSA • Spring Core • Spring Boot • SQL</b>
 </p>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-
   <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white">
   </a>
-
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+---
+
+<!-- ===================== ABOUT ===================== -->
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I'm a <b>Computer Science Engineering student</b> passionate about
+<b>Java, Data Structures & Algorithms, and Backend Development</b>.
 </p>
+
+<p>
+Currently building my skills in <b>Spring Core, Spring Boot, REST APIs,
+SQL</b> and learning <b>Microservices</b>.
+</p>
+
+<ul>
+  <li>☕ Strong interest in Java & Java 8</li>
+  <li>🧠 Solved 250+ problems on LeetCode</li>
+  <li>🌱 Learning Microservices</li>
+  <li>🗄️ Working with SQL & MySQL</li>
+  <li>🚀 Building backend projects using Spring Boot</li>
+</ul>
 
 ---
 
-<!-- ======================= ABOUT ME ======================= -->
+<!-- ===================== SKILLS ===================== -->
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2>🛠️ Skills</h2>
 
-<p align="center">
-  I'm a Computer Science Engineering student passionate about
-  <b>Java, Data Structures & Algorithms and Backend Development</b>.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java">
 </p>
 
-<p align="center">
-  Currently learning and building applications using
-  <b>Spring Boot, REST APIs, JPA, Hibernate, SQL and Microservices</b>.
+<b>Java</b>  
+<b>Java 8</b>  
+<b>Data Structures & Algorithms</b>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring">
 </p>
 
+<b>Spring Core</b>  
+<b>Spring Boot</b>  
+<b>REST APIs</b>  
+<b>Microservices — Learning</b>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql">
+</p>
+
+<b>SQL</b>  
+<b>MySQL</b>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Web Basics
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js">
+</p>
+
+<b>HTML</b>  
+<b>CSS</b>  
+<b>JavaScript — Basics</b>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== DSA ===================== -->
+
+<h2>🧠 Data Structures & Algorithms</h2>
+
+<p>
+<b>250+ LeetCode Problems Solved</b>
+</p>
+
+<p>
+Arrays • Strings • Hashing • Two Pointers • Sliding Window
 <br>
-
-<table align="center">
-<tr>
-<td align="center" width="220">
-
-🎓  
-<b>B.Tech CSE</b>
-
-</td>
-
-<td align="center" width="220">
-
-☕  
-<b>Java Developer</b>
-
-</td>
-
-<td align="center" width="220">
-
-🧠  
-<b>250+ LeetCode</b>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🌱  
-<b>Spring Boot</b>
-
-</td>
-
-<td align="center">
-
-🗄️  
-<b>SQL / MySQL</b>
-
-</td>
-
-<td align="center">
-
-🚀  
-<b>Backend Development</b>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ======================= TECH STACK ======================= -->
-
-<h2 align="center">⚡ Tech Stack</h2>
-
-<h3 align="center">💻 Languages</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css"/>
-</p>
-
-<h3 align="center">🚀 Backend & Frameworks</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,maven"/>
-</p>
-
-<h3 align="center">🗄️ Database</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-<h3 align="center">🛠️ Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
-</p>
-
----
-
-<!-- ======================= CURRENT FOCUS ======================= -->
-
-<h2 align="center">🎯 Current Focus</h2>
-
-<table align="center">
-<tr>
-
-<td align="center" width="160">
-
-☕<br>
-<b>Java</b>
-
-</td>
-
-<td align="center" width="60">
-➡️
-</td>
-
-<td align="center" width="160">
-
-🧠<br>
-<b>DSA</b>
-
-</td>
-
-<td align="center" width="60">
-➡️
-</td>
-
-<td align="center" width="160">
-
-🌱<br>
-<b>Spring Boot</b>
-
-</td>
-
-</tr>
-
-<tr>
-<td colspan="5" align="center">
-⬇️
-</td>
-</tr>
-
-<tr>
-
-<td align="center">
-
-🗄️<br>
-<b>SQL</b>
-
-</td>
-
-<td align="center">
-⬅️
-</td>
-
-<td align="center">
-
-🔗<br>
-<b>REST APIs</b>
-
-</td>
-
-<td align="center">
-➡️
-</td>
-
-<td align="center">
-
-⚙️<br>
-<b>Microservices</b>
-
-</td>
-
-</tr>
-
-<tr>
-<td colspan="5" align="center">
-⬇️
-</td>
-</tr>
-
-<tr>
-<td colspan="5" align="center">
-
-🚀 <b>Building Backend Applications</b>
-
-</td>
-</tr>
-
-</table>
-
----
-
-<!-- ======================= WHAT I'M LEARNING ======================= -->
-
-<h2 align="center">📚 What I'm Learning</h2>
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="250">
-
-### ☕ Java
-
-OOP  
-Collections  
-Java 8  
-Exception Handling  
-Generics
-
-</td>
-
-<td align="center" width="250">
-
-### 🌱 Spring Boot
-
-Spring MVC  
-Spring Data JPA  
-Spring Security  
-REST APIs  
-Hibernate
-
-</td>
-
-<td align="center" width="250">
-
-### 🗄️ SQL
-
-Joins  
-Subqueries  
-Window Functions  
-Indexes  
-Database Design
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<!-- ======================= FEATURED PROJECTS ======================= -->
-
-<h2 align="center">🔥 Featured Projects</h2>
-
+Binary Search • Sorting • Linked Lists • Stack • Queue
 <br>
+Trees • Graphs • Heap • Greedy • Backtracking • Dynamic Programming
+</p>
+
+<p>
+<a href="YOUR_LEETCODE_URL">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white">
+</a>
+</p>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2>🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 <h3>🎓 Smart Campus Event Management System</h3>
 
 <p>
-A full-stack event management platform designed for students,
-organizers and administrators to manage college events.
+A full-stack event management system for students,
+organizers and administrators.
 </p>
 
 <p>
-<b>Tech Stack:</b>
-Java • Spring Boot • Spring Security • JPA/Hibernate • MySQL • React
-</p>
-
-<table>
-
-<tr>
-<td>🎫</td>
-<td>Student event registration</td>
-</tr>
-
-<tr>
-<td>📋</td>
-<td>Organizer event proposals</td>
-</tr>
-
-<tr>
-<td>✅</td>
-<td>Admin approval and rejection</td>
-</tr>
-
-<tr>
-<td>🔎</td>
-<td>Event filtering and searching</td>
-</tr>
-
-<tr>
-<td>📊</td>
-<td>Registration management</td>
-</tr>
-
-<tr>
-<td>💬</td>
-<td>Feedback management</td>
-</tr>
-
-</table>
-
-<p>
-<a href="YOUR_SMART_CAMPUS_REPO">
-  <img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
+<b>Technologies:</b>
 <br>
+Java • Spring Boot • Spring Security
+<br>
+JPA / Hibernate • MySQL • React
+</p>
+
+<p>
+<b>Features:</b>
+</p>
+
+<ul>
+<li>Event creation and management</li>
+<li>Student registration</li>
+<li>Organizer proposals</li>
+<li>Admin approval/rejection</li>
+<li>Registration management</li>
+<li>Feedback management</li>
+</ul>
+
+<a href="YOUR_SMART_CAMPUS_REPO">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 <h3>📦 Inventory Control & Stock Tracking System</h3>
 
 <p>
-A system for managing products, inventory levels and stock information
-using a backend-driven architecture.
+An inventory management system designed to
+manage products and stock information.
 </p>
 
 <p>
-<b>Tech Stack:</b>
-Java • Spring Boot • SQL • React
+<b>Technologies:</b>
+<br>
+Java • Spring Boot • SQL • MySQL
 </p>
 
 <p>
+<b>Focus:</b>
+</p>
+
+<ul>
+<li>Product management</li>
+<li>Inventory tracking</li>
+<li>Stock management</li>
+<li>Database operations</li>
+</ul>
+
 <a href="YOUR_INVENTORY_REPO">
-  <img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white">
 </a>
-</p>
-
----
-
-<!-- ======================= DSA ======================= -->
-
-<h2 align="center">🧠 Data Structures & Algorithms</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</p>
-
-<p align="center">
-  <b>Topics Practiced</b>
-</p>
-
-<p align="center">
-
-Arrays • Strings • Hashing • Two Pointers  
-<br>
-Sliding Window • Binary Search • Sorting  
-<br>
-Linked Lists • Stack • Queue • Trees  
-<br>
-Graphs • Heap • Greedy • Backtracking  
-<br>
-Dynamic Programming
-
-</p>
-
-<p align="center">
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/🔥%20View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- ======================= GITHUB STATS ======================= -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<br>
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    width="65%"
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
-
-<h2 align="center">🐍 Contribution Journey</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
-<!-- ======================= DEVELOPMENT JOURNEY ======================= -->
-
-<h2 align="center">🚀 My Development Journey</h2>
-
-<table align="center">
-
-<tr>
-<td align="center">
-
-🎓
-
-<br>
-
-<b>Computer Science</b>
-
-<br>
-
-Fundamentals
-
-</td>
-
-<td align="center">
-➡️
-</td>
-
-<td align="center">
-
-☕
-
-<br>
-
-<b>Java</b>
-
-<br>
-
-OOP • Collections
-
-</td>
-
-<td align="center">
-➡️
-</td>
-
-<td align="center">
-
-🧠
-
-<br>
-
-<b>DSA</b>
-
-<br>
-
-Problem Solving
 
 </td>
 
 </tr>
-
-<tr>
-
-<td colspan="5" align="center">
-⬇️
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-🗄️
-
-<br>
-
-<b>SQL</b>
-
-<br>
-
-MySQL
-
-</td>
-
-<td align="center">
-➡️
-</td>
-
-<td align="center">
-
-🌱
-
-<br>
-
-<b>Spring Boot</b>
-
-<br>
-
-REST APIs
-
-</td>
-
-<td align="center">
-➡️
-</td>
-
-<td align="center">
-
-🚀
-
-<br>
-
-<b>Backend</b>
-
-<br>
-
-Real Projects
-
-</td>
-
-</tr>
-
 </table>
 
 ---
 
-<!-- ======================= GOALS ======================= -->
+<!-- ===================== CURRENTLY LEARNING ===================== -->
 
-<h2 align="center">🎯 Goals</h2>
+<h2>🌱 Currently Learning</h2>
 
 <p align="center">
 
-🚀 Build production-ready backend applications
+<img src="https://img.shields.io/badge/Spring%20Core-6DB33F?style=flat-square&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square">
+<img src="https://img.shields.io/badge/Microservices-Learning-6DB33F?style=flat-square">
 
-<br><br>
+</p>
 
-🧠 Strengthen DSA & problem-solving skills
+<p align="center">
+  <b>Currently focusing on building strong backend development fundamentals.</b>
+</p>
 
-<br><br>
+---
 
-🌱 Master Spring Boot & Microservices
+<!-- ===================== GITHUB ===================== -->
 
-<br><br>
+<h2>📊 GitHub</h2>
 
-🗄️ Improve database & SQL expertise
+<p align="center">
 
-<br><br>
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight"
+/>
 
-💼 Start my career as a Java Backend Developer
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight"
+/>
 
 </p>
 
 ---
 
-<!-- ======================= CONNECT ======================= -->
+<!-- ===================== CONNECT ===================== -->
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-250%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
 
-<br>
-
 <p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-</p>
-
-<p align="center">
-  <i>Code • Learn • Build • Repeat 🚀</i>
+  <b>💻 Code • 🧠 Learn • 🚀 Build</b>
 </p>

@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/mohan-aluru-8186bb398/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/Mohan_aluru/">
     <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white">
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:mohanaluru003@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -133,7 +133,7 @@ Trees • Graphs • Heap • Greedy • Backtracking • Dynamic Programming
 </p>
 
 <p>
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/Mohan_aluru/">
   <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white">
 </a>
 </p>
@@ -249,11 +249,11 @@ Java • Spring Boot • SQL • MySQL
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/mohan-aluru-8186bb398/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/Mohan_aluru/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
